@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Islamic Quiz Game</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <div id="landing-page">
+        <h1>Welcome to the Islamic Quiz Game!</h1>
+        <p>Test your knowledge about Islam with this quiz game. You have 5 lifelines. Answer carefully!</p>
+        <button id="start-btn">Play Game</button>
+    </div>
+
+    <div id="quiz-container" class="hide">
+        <h1>Islamic Quiz Game</h1>
+        <div id="question-container">
+            <div id="question">Question Text</div>
+            <div id="answer-buttons" class="btn-container">
+                <!-- Option buttons will be inserted here dynamically -->
+            </div>
+        </div>
+        <button id="next-btn" class="hide">Next</button>
+    </div>
+
+    <div id="lifelines">
+        Lifelines left: <span id="lifeline-count">5</span>
+    </div>
+
+    <div id="popup" class="hide">
+        <div class="popup-content">
+            <p id="popup-text"></p>
+            <button id="popup-close-btn">Close</button>
+        </div>
+    </div>
+    
+    <!-- Add a landing page -->
+    <div id="landing-page" class="hide">
+        <div class="landing-content">
+            <p>Your lifelines have ended. The game will restart.</p>
+            <button id="restart-btn">Restart Game</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
