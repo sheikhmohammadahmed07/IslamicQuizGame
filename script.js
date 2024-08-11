@@ -385,14 +385,69 @@ const questions = [
         answer: "Pul-e-Sirat"
     },
     {
-        question: "When did Islam come into existence?",
-        options: ["Islam came into existence after the birth of Prophet Muhammad (PBUH)", "Islam came into existence only a few centuries ago", "Islam has been the religion of all the Prophets, from Prophet Adam (PBUH) till Prophet Muhammad (PBUH)", "Islam came into existence after the birth of Prophet Ibrahim (A.S)"],
-        answer: "Islam came into existence after the birth of Prophet Muhammad (PBUH)"
+        question: "Who is the first martyr in Islam?",
+        options: ["Sumayyah", "Fathima", "Ayesha", "Khadeejah"],
+        answer: "Sumayyah"
     },
     {
-        question: "Who is the first martyr in Islam?",
-        options: ["Sumayyah", "Fathima", "Ayesha", "Khadeejah)"],
-        answer: "Sumayyah"
+        question: "Why did Abu Bakr (r.a.) want to send an army to some of the neighboring tribes?",
+        options: ["Some of the tribes had given up on Islam after the Prophet's death because they thought Islam would come to an end.", "The tribes were planning an attack", "The people of the tribes refused to convert to Islam", "None of the above"],
+        answer: "Some of the tribes had given up on Islam after the Prophet's death because they thought Islam would come to an end."
+    },
+    {
+        question: "What is a Mahram ?",
+        options: ["One who is forbidden to marry with", "One who is allowed to marry to", "The NAme od dress while performing Hajj", "None of the above"],
+        answer: "One who is forbidden to marry with"
+    },
+    {
+        "question": "What was the name of the treaty between the Prophet Muhammad and the Quraysh tribe, and what were its key terms?",
+        "options": ["Treaty of Hudaibiyyah", "Treaty of Hudaybiyyah", "Treaty of Medina", "Treaty of Mecca"],
+        "answer": "Treaty of Hudaibiyyah"
+    },
+    {
+        "question": "Which Surah in the Quran is known as the 'Chapter of Light,' and what is its primary theme?",
+        "options": ["Surah Al-Fatiha", "Surah An-Nur", "Surah Al-Baqarah", "Surah Al-Imran"],
+        "answer": "Surah An-Nur"
+    },
+    {
+        "question": "What is the significance of the Treaty of Hudaibiyyah in Islamic history?",
+        "options": ["It led to the immediate conquest of Mecca", "It marked a turning point in relations with the Quraysh tribe", "It was a treaty with the Byzantine Empire", "It established the first Islamic state in Medina"],
+        "answer": "It marked a turning point in relations with the Quraysh tribe"
+    },
+    {
+        "question": "In which battle was the famous 'Incident of the Black Banners' observed, and what was its outcome?",
+        "options": ["Battle of Badr", "Battle of Uhud", "Battle of Al-Khandaq", "Battle of Tabuk"],
+        "answer": "Battle of Al-Khandaq"
+    },
+    {
+        "question": "What is the 'Maqamat' in Islamic mysticism, and who is credited with its development?",
+        "options": ["Stages of spiritual progress", "Islamic legal terms", "Theological debates", "Sufi practices"],
+        "answer": "Stages of spiritual progress"
+    },
+    {
+        "question": "What is the 'Hadith of the Golden Chain' and which chain is considered most authoritative in Hadith literature?",
+        "options": ["Chain of Al-Bukhari", "Chain of Al-Muslim", "Chain of Al-Sahihayn", "Chain of Al-Sanad"],
+        "answer": "Chain of Al-Sanad"
+    },
+    {
+        "question": "Which classical Islamic scholar wrote 'The Book of Healing,' and what is its main focus?",
+        "options": ["Ibn Sina; philosophy and natural sciences", "Al-Ghazali; theology and philosophy", "Ibn Rushd; jurisprudence and philosophy", "Al-Shafi'i; Islamic jurisprudence"],
+        "answer": "Ibn Sina; philosophy and natural sciences"
+    },
+    {
+        "question": "What is the 'Fajr al-Kabir' and its relevance in the context of Islamic eschatology?",
+        "options": ["It is the final hour before the Day of Judgment", "It is the beginning of the Islamic calendar year", "It refers to the first light of dawn in daily prayers", "It denotes the beginning of Ramadan"],
+        "answer": "It is the final hour before the Day of Judgment"
+    },
+    {
+        "question": "What is the significance of the Battle of Mu'tah in early Islamic history, and who were the key commanders?",
+        "options": ["It was a confrontation with the Byzantine Empire", "It was a defense against the Quraysh tribe; Abu Bakr, Umar, Ali", "It was a naval battle against the Romans", "It was a siege of Mecca"],
+        "answer": "It was a confrontation with the Byzantine Empire"
+    },
+    {
+        "question": "In Islamic theology, what is the distinction between 'Tafsir al-Qalb' and 'Tafsir al-Lisan'?",
+        "options": ["Tafsir al-Qalb is spiritual interpretation", "Tafsir al-Qalb is historical analysis", "Tafsir al-Qalb is legal interpretation", "Tafsir al-Qalb is literal translation;"],
+        "answer": "Tafsir al-Qalb is spiritual interpretation"
     }
 ];
 
